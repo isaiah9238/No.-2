@@ -1,0 +1,6 @@
+{
+  "name": "CogNexus: Genesis of Machine Cognition",
+  "description": "An interactive exploration of silicon physics, historical foundations of computing, artificial general intelligence sparks, and thermodynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
